@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/pewterzz-sf-dog-shelter-finder-badge.png)](https://mseep.ai/app/pewterzz-sf-dog-shelter-finder)
+
 # How to run
 
 ## Local Setup
